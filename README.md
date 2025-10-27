@@ -1,11 +1,13 @@
-🎡 Lucky Wheel React
+#🎡 Lucky Wheel React
 
-Live Demo: https://lucky-wheel-react.netlify.app/
+🔗 Live Demo: https://lucky-wheel-react.netlify.app/
 
 This is my second React project — an interactive Lottery Wheel Game built using React.js and CSS.
 Spin the wheel and test your luck! 🍀
 
-🚀 Features
+---
+
+#🚀 Features
 
 🎯 Random spin results for fair outcomes
 
@@ -13,11 +15,13 @@ Spin the wheel and test your luck! 🍀
 
 🧩 State management using React Hooks (useState)
 
-🎨 Responsive UI for desktop and mobile
+🎨 Responsive UI for all screens
 
-🕹️ Simple, fun, and visually engaging design
+🕹️ Fun and visually engaging design
 
-🛠️ Tech Stack
+---
+
+#🛠️ Tech Stack
 
 React + Vite
 
@@ -25,46 +29,33 @@ CSS3
 
 JavaScript (ES6+)
 
-Netlify (for deployment)
+Netlify (deployment)
 
-🧠 What I Learned
+---
 
-Handling component state and updates using React Hooks
+#🧠 What I Learned
 
-Working with random logic and animations
+Managing state with React Hooks
 
-Structuring React projects cleanly
+Using randomness and animations in React
 
-Deploying a React app with Netlify
+Clean project structure and reusable components
 
-🧩 Setup Instructions
+Deploying React apps with Netlify
 
-Clone the repository:
+---
 
+#🧩 Setup
 git clone https://github.com/Gopeshsharmaa/lucky-wheel-react.git
-
-
-Navigate to the folder:
-
 cd lucky-wheel-react
-
-
-Install dependencies:
-
 npm install
-
-
-Start the development server:
-
 npm run dev
 
-📸 Preview
+---
 
-(Add a screenshot of your app here — optional but recommended)
-
-👨‍💻 Author
+#👨‍💻 Author
 
 Gopesh Sharma
 📍 Built with ❤️ using React & Vite
 🔗 Live App
- | GitHub Repo
+ • GitHub Repo
