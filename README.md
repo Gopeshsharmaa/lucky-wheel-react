@@ -1,4 +1,4 @@
-#🎡 Lucky Wheel React
+🎡 Lucky Wheel React
 
 🔗 Live Demo: https://lucky-wheel-react.netlify.app/
 
@@ -7,7 +7,7 @@ Spin the wheel and test your luck! 🍀
 
 ---
 
-#🚀 Features
+🚀 Features
 
 🎯 Random spin results for fair outcomes
 
@@ -21,7 +21,7 @@ Spin the wheel and test your luck! 🍀
 
 ---
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 
 React + Vite
 
@@ -33,7 +33,7 @@ Netlify (deployment)
 
 ---
 
-#🧠 What I Learned
+🧠 What I Learned
 
 Managing state with React Hooks
 
@@ -45,7 +45,7 @@ Deploying React apps with Netlify
 
 ---
 
-#🧩 Setup
+🧩 Setup
 git clone https://github.com/Gopeshsharmaa/lucky-wheel-react.git
 cd lucky-wheel-react
 npm install
@@ -53,7 +53,7 @@ npm run dev
 
 ---
 
-#👨‍💻 Author
+👨‍💻 Author
 
 Gopesh Sharma
 📍 Built with ❤️ using React & Vite
