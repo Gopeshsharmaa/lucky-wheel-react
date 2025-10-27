@@ -56,6 +56,3 @@ npm run dev
 👨‍💻 Author
 
 Gopesh Sharma
-📍 Built with ❤️ using React & Vite
-🔗 Live App
- • GitHub Repo
